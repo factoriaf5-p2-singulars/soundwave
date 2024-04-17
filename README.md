@@ -1,4 +1,4 @@
-# SOUNDWAVE: un proyecto de React con estilo
+# SOUNDWAVE: from Angular point of view
 
 ## Introducción
 
@@ -8,16 +8,17 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 ## Requerimientos técnicos
 
-- La web deberá estar desarrollada en React con TypeScript.
+- La web deberá estar desarrollada en Angular >17.
 - La web deberá ser responsive.
-- Los estilos deberán aplicarse con styled components, react-bootstrap, material ui o shadcn+tailwindcss.
+- Los estilos se desarrollarán en Sass.
 - La web deberá ser fiel al prototipo.
 - La web deberá estar desplegada.
 - Se deberá usar un tablero Kanban para organizar las tareas del proyecto.
-- Se investigará qué es react-router-dom y se utilizará para las rutas de la navbar.
+- Se investigará angular-router y se utilizará para las rutas de la navbar.
 - Se aplicará Atomic Design.
-- Podéis utilizar hooks y props (pero no es imprescindible).
-
+- Podéis utilizar recursos de binding y component interaction (pero no es imprescindible).
+- BONUS-TRACK: testing unitario de componentes
+-
 ## Recursos
 
 <details>
@@ -36,15 +37,8 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 - **[Mockup](https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/46391d6c-b766-4ed3-a121-72c9b2a15960.pdf)**
 - **[Carta gráfica](https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/0b528713-7dbc-4261-b4b7-0070dd4e7021.pdf)**
-- **[How to style React](https://www.freecodecamp.org/news/how-to-style-a-react-app/)**
-- **[Styled-components](https://styled-components.com/)**
-- **[React-Bootstrap](https://react-bootstrap.github.io/)**
-- **[shadcn/ui](https://ui.shadcn.com/)**
-- **[MUI Core: Ready to use components, free forever](https://mui.com/core/)**
-- **[thinking in react](https://react.dev/learn/thinking-in-react)**
-- **[Vite-Typescript](https://vitejs.dev/guide/)**
-- **[React-Router](https://reactrouter.com/en/6.22.0)**
-
+- **[Doc oficial Angular](https://angular.dev/)**
+- **[Testing Angular](https://testing-angular.com/)**
 
 
 ## Entregables
@@ -54,9 +48,7 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 ## Modalidad
 
-- Trabajo individual.
-- Este sprint, durará una semana. La entrega será el 15/02/2024
-- Presentación: Se hará una presentación en conjunto por estilo donde se expondrán las dificultades surgidas y cómo se han resuelto.
+- Trabajo individual, plazo de entrega 23/04/24.
 - El feedback a los proyectos se dará de manera individual vía classroom.
 
 ## Rúbrica de evaluación
